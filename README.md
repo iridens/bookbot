@@ -3,7 +3,8 @@
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 ## Description
-This project takes a book in `txt` format as input and performs some analysis functions over it.
+This project takes a textfile as input and performs some data analysis using word counting
+and word extrapolation functions over it.
 
 ## Functions
 
