@@ -10,9 +10,9 @@ and word extrapolation functions over it.
 
 | name | description |
 | ---- | ----------- |
-| `get_total_words` | Returns total number of words inside the textfile |
-| `get_char_repetitions` | Returns a dictionary with the characters found inside the textfile and their occurrencies |
-| `sort_dictionary` | Creates a list of dictionaries and sorts them | 
+| `get_total_words` | Returns total number of words. |
+| `get_char_repetitions` | Returns a dictionary of found characters and their occurrences. |
+| `sort_dictionary` | Creates a list of dictionaries containing the character count and sorts them by number of ocurrences. | 
 
 ## To Do:
 - [ ] Add function to find _Top 5 most frequent words_
