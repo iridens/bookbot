@@ -14,6 +14,6 @@ This project takes a book in `txt` format as input and performs some analysis fu
 | `sort_dictionary` | Creates a list of dictionaries and sorts them | 
 
 ## To Do:
-- [] Add function to read _most frequent word_
-- [] Add function to _count words_
-- [] Remove punctuation noise (dots, commas and symbols)
+- [ ] Add function to read _most frequent word_
+- [ ] Add function to _count words_
+- [ ] Remove punctuation noise (dots, commas and symbols)
